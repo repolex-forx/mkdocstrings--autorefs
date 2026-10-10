@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/autorefs/commit/fd28aa305e26e6bec58ae1b187c76559105ae7ea",
       "git:hexsha": "fd28aa305e26e6bec58ae1b187c76559105ae7ea",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/autorefs/commit/580e28c5d1573bd4f68bc48da176ffaecffda079",
