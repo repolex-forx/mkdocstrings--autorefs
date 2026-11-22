@@ -3,6 +3,11 @@
   "repo": "autorefs",
   "versions": [
     {
+      "commit": "73c897a0d486d84d54b460b86f9a0a3d435f62f8",
+      "tag": "1.4.4",
+      "parsed_at": "2026-11-22T00:36:49.379589+00:00"
+    },
+    {
       "commit": "fd28aa305e26e6bec58ae1b187c76559105ae7ea",
       "tag": "",
       "parsed_at": "2026-10-10T22:34:17.099261+00:00"
